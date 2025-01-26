@@ -1,4 +1,4 @@
-Voice-Search-Wikipedia
+# Voice-Search-Wikipedia
 -----------------------
 
 A Python-based project that allows users to perform voice-activated searches on Wikipedia.
@@ -60,6 +60,6 @@ How to Run the Project
 ------------------------
 1. Clone the repository:
    
-   git clone https://github.com/Kavya12G/Voice_Search_Wikipedia-Using-Python
+   git clone https://github.com/danukabade/Voice-Search-Wikipedia
 
    
