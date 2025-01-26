@@ -1,5 +1,4 @@
 # Voice-Search-Wikipedia
------------------------
 
 A Python-based project that allows users to perform voice-activated searches on Wikipedia.
 Converts user voice input to text, searches Wikipedia, and provides the results via text or audio output.
